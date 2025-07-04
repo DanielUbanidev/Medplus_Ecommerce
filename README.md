@@ -20,14 +20,8 @@ Medplus eCommerce is a full-stack Laravel application designed for modern pharma
 - **Styling**: Tailwind CSS / Bootstrap (depending on setup)
 - **Auth**: Laravel Sanctum or built-in auth scaffolding
 
-## 📦 Installation
-
-### Prerequisites
-
-- PHP 8.1+
-- Composer
-- MySQL
-- Node.js & NPM
+## 🌐 Deployment
+URL: https://medplus.collaboratoor.com/ecommerce/
 
 ## 📄 License
 This project is open-source under the MIT License.
